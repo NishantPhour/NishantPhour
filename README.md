@@ -1,16 +1,15 @@
-## Hi there 👋
+- **Position**: Senior Analyst Programmer at the [Department of Biodiversity Conservation and Attractions](https://www.dbca.wa.gov.au) 🏢
+- **Location**: Based in Perth, Western Australia 🌏, originally from India 🇮🇳
+- **Email**: [📧 phournishant0@gmail.com](mailto:phournishant0@gmail.com)
+- **Instagram**: [📸 nishantphour](https://www.instagram.com/nishantphour/)
+- **LinkedIn**: [🔗 Nishant Phour](https://www.linkedin.com/in/nishantphour/)
+- **Interests**: Playing badminton 🏸 (If you want to play a match, message me on Insta with an emoji 😉)
+- **Skills**:
+  - Coding in Python 🐍 and JavaScript ☕
+  - Frameworks: Django and Vue 
+  - Databases: MySQL 🗄️ and PostgreSQL 🐘
+- **Future Focus**: Machine Learning and Artificial Intelligence 🤖
 
-<!--
-**NishantPhour/NishantPhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get in Touch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me via [email](mailto:phournishant0@gmail.com) or connect with me on [Instagram](https://www.instagram.com/nishantphour/) or [LinkedIn](https://www.linkedin.com/in/nishantphour/)! 🌟
