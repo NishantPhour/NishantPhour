@@ -3,7 +3,7 @@
 - **Email**: [📧 phournishant0@gmail.com](mailto:phournishant0@gmail.com)
 - **Instagram**: [📸 nishantphour](https://www.instagram.com/nishantphour/)
 - **LinkedIn**: [🔗 Nishant Phour](https://www.linkedin.com/in/nishantphour/)
-- **Interests**: Playing badminton 🏸 (If you want to play a match, message me on Insta with an emoji 😉)
+- **Interests**: Playing badminton 🏸 (If you want to play a match, message me on Insta emoji 😉)
 - **Skills**:
   - Coding in Python 🐍 and JavaScript ☕
   - Frameworks: Django and Vue 
