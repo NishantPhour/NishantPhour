@@ -1,7 +1,7 @@
 - **Position**: Senior Analyst Programmer at the [Department of Biodiversity Conservation and Attractions](https://www.dbca.wa.gov.au) 🏢
 - **Location**: Based in Perth, Western Australia 🌏, originally from India 🇮🇳
 - **Email**: [📧 phournishant0@gmail.com](mailto:phournishant0@gmail.com)
-- **Instagram**: [📸 nishantphour](https://www.instagram.com/nishantphour/)
+- **Instagram**: [📸 nishantphour](https://www.instagram.com/nishant_p4/)
 - **LinkedIn**: [🔗 Nishant Phour](https://www.linkedin.com/in/nishantphour/)
 - **Interests**: Playing badminton 🏸 (If you want to play a match, message me on Insta with 😉)
 - **Skills**:
