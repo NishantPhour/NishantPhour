@@ -12,4 +12,4 @@
 
 ## Get in Touch
 
-Feel free to reach out to me via [email](mailto:phournishant0@gmail.com) or connect with me on [Instagram](https://www.instagram.com/nishantp_4/) or [LinkedIn](https://www.linkedin.com/in/nishantphour/)! 🌟
+Feel free to reach out to me via [email](mailto:phournishant0@gmail.com) or connect with me on [Instagram](https://www.instagram.com/nishant_p4/) or [LinkedIn](https://www.linkedin.com/in/nishantphour/)! 🌟
