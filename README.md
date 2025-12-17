@@ -11,7 +11,6 @@
 - **Future Focus**: Machine Learning and Artificial Intelligence 🤖
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantPhour&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantPhour&layout=compact&theme=tokyonight)
 
 ## Get in Touch 
